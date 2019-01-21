@@ -109,3 +109,7 @@ Exception                                 Traceback (most recent call last)
 
 Exception: Compilation failed (return status=1): In file included from /Users/sangwoon_lee/.theano/compiledir_Darwin-18.2.0-x86_64-i386-64bit-i386-3.7.1-64/lazylinker_ext/mod.cpp:1:. In file included from /anaconda3/include/python3.7m/Python.h:25:. /anaconda3/bin/../include/c++/v1/stdio.h:108:15: fatal error: 'stdio.h' file not found. #include_next <stdio.h>.               ^~~~~~~~~. 1 error generated.. 
 ```
+
+# Problem solving
+
+- https://stackoverflow.com/questions/51761599/cannot-find-stdio-h
