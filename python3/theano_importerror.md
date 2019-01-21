@@ -1,3 +1,12 @@
+# Environment
+
+  - macOS Mojave version 10.14.2
+  - Anaconda 2018.12 For macOS Installer (Python 3.7 version)
+  - Anaconda Navigator 1.9.6
+  - conda 4.5.12
+
+# Python3 Code
+
 ```python
 import scipy
 import numpy
@@ -23,6 +32,8 @@ print('theano ' + theano.__version__)
 print('tensorflow ' + tensorflow.__version__)
 print('keras ' + keras.__version__)
 ```
+
+# Error
 
 ```python
 ---------------------------------------------------------------------------
