@@ -112,4 +112,11 @@ Exception: Compilation failed (return status=1): In file included from /Users/sa
 
 # Problem solving
 
-- https://stackoverflow.com/questions/51761599/cannot-find-stdio-h
+  - https://qiita.com/labocho/items/b966149e7e9700414bbc
+  - https://stackoverflow.com/questions/51761599/cannot-find-stdio-h
+
+```python
+● /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg を実行すると /usr/include にコピーしされて解決
+  ● ファイル：　macOS_SDK_headers_for_macOS_10.14.pkg
+  ● ファイルの場所：　Finder > Machintosh HD > ライブラリ > Developer > CommandLineTools > Packages
+```
